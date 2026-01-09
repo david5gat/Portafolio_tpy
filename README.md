@@ -1,3 +1,10 @@
+#para iniciar
+
+## se debe tener NODEJS ULTIMA VERSION
+## se debe realizar la descarga de los paquetes npm con npm install -g 
+
+#AHORA SI LO SIGUIENTE =>
+
 # PortafolioTpy
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
