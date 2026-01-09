@@ -1,0 +1,34 @@
+
+.anuncio{
+    border: 2px solid purple;
+    border-radius: 30px;
+}
+
+.titulo_ann{
+    color: purple;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.rendencion_ann{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+.texto_ann{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+button{
+    background-color: rgb(255, 221, 249);
+    color: purple;
+    border: 1px solid white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0 auto 10px;
+    margin-bottom: 10px;
+}

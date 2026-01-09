@@ -1,0 +1,99 @@
+.anuncio{
+    width: 60%;
+    // display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 10px;
+}
+
+.botones{
+    display: flex;
+    place-items: center;
+    img{
+        width: 250px;
+        height: auto;
+    }
+    button{
+        margin: 10px;
+        width: 250px;
+        height: 55px;
+        border: none;
+        background-color: #673ab7;
+        color: white;
+        font-size: 16px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+ 
+}
+
+ .video-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin-left: -180px;
+  gap: 24px;
+  width: 150%;
+}
+
+.video-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+  p{
+    color:#673ab7;
+  }
+}
+
+.infos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.info-card{
+
+    width: 80%;
+    border-radius: 20px;
+    background-color: aqua;
+    margin: 0 auto;
+
+    h3{
+        display: flex;
+        justify-content: center;
+        color: purple;
+    }
+
+    img{
+        display: block;
+        margin: 0 auto;
+        width: 300px;
+        
+    }
+
+    p{
+        color: gray;
+    }
+}
+
+
+.texto{
+    margin:20px;
+    .mision{
+        h3{
+            color: purple;
+        }
+    }
+    .vision{
+        h3{ 
+            color: purple;
+        }
+    }
+    hr{
+        color: purple;
+    }
+}
