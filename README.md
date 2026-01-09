@@ -1,9 +1,9 @@
 # para iniciar
 
-## se debe tener NODEJS ULTIMA VERSION
-## se debe realizar la descarga de los paquetes npm con npm install -g 
+### se debe tener NODEJS ULTIMA VERSION
+### se debe realizar la descarga de los paquetes npm con npm install -g 
 
-#AHORA SI LO SIGUIENTE =>
+# AHORA SI LO SIGUIENTE =>
 
 # PortafolioTpy
 
