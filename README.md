@@ -1,4 +1,4 @@
-#para iniciar
+# para iniciar
 
 ## se debe tener NODEJS ULTIMA VERSION
 ## se debe realizar la descarga de los paquetes npm con npm install -g 
